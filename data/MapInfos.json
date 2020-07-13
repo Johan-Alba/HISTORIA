@@ -1,8 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"intro","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":2,"expanded":true,"name":"Plaza De Bolivar (1810)","order":2,"parentId":1,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":3,"expanded":true,"name":"intro","order":3,"parentId":1,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":4,"expanded":true,"name":"intro","order":4,"parentId":3,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":5,"expanded":false,"name":"Plaza De Bolivar (1810)","order":5,"parentId":4,"scrollX":722.6666666666666,"scrollY":406.6666666666667}
+{"id":1,"expanded":true,"name":"intro","order":1,"parentId":0,"scrollX":720,"scrollY":399.3333333333333},
+{"id":2,"expanded":true,"name":"Plaza De Bolivar (1810)","order":2,"parentId":1,"scrollX":720,"scrollY":399.3333333333333},
+{"id":3,"expanded":true,"name":"intro","order":3,"parentId":1,"scrollX":720,"scrollY":399.3333333333333},
+{"id":4,"expanded":true,"name":"intro","order":4,"parentId":3,"scrollX":720,"scrollY":399.3333333333333},
+{"id":5,"expanded":true,"name":"Plaza De Bolivar (1810)","order":5,"parentId":4,"scrollX":720,"scrollY":399.3333333333333},
+{"id":6,"expanded":true,"name":"VIRREY","order":6,"parentId":5,"scrollX":720,"scrollY":399.3333333333333},
+{"id":7,"expanded":true,"name":"Plaza De Bolivar (1810)","order":7,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"Plaza De Bolivar (1810)","order":8,"parentId":7,"scrollX":720,"scrollY":399.3333333333333}
 ]
